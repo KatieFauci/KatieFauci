@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KatieFauci
-- 👀 I’m interested in App Development
-- 🌱 I’m currently working on increasing my skill in python and building GUI's
+- 🌱 I’m currently working on increasing my skill in Python and Javascript and building applications with GUI's
 - 📫 How to reach me would be here on github
 
 <!---
